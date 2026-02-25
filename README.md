@@ -9,3 +9,5 @@ The sequence data to be analyzed will be taken from the research paper [Chrzaste
 ## Associated code
 
 The preprocessing step described in the study includes adapter trimming and quality filtering using [Trim Galore(v0.5.0)](https://github.com/FelixKrueger/TrimGalore/blob/master/trim_galore). The analysis code for this project is available in the [script](script.py)
+
+For alignment and filtering, we will follow the method described by Bhuvaneshwar et al. (2018)(https://github.com/ICBI/viGEN/)
